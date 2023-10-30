@@ -1,0 +1,32 @@
+.coin-info-container {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .coin-info-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .coin-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .coin-info-details {
+    font-size: 16px;
+  }
+  
+  /* You can further style and customize the component as per your design preferences. */
+  
